@@ -8,7 +8,7 @@
 ---
 
 ## 📸 Dashboard Preview
-👉 
+👉 https://github.com/en25cs3011056-glitch/electric-vehicle-market-project-/blob/main/DASHBOARDPREVIEW.png
 
 ## 📸 Demo Video
 👉  
